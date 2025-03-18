@@ -27,7 +27,7 @@
                 {
                     "source_name": "mitre-attack",
                     "url": "https://attack.mitre.org/datasources/DS0014",
-                    "external_id": "DS0014"
+                    "external_id": "DS0014SF"
                 },
                 {
                     "source_name": "Kube Kubectl",
